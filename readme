@@ -1,0 +1,10 @@
+Server Deployment
+You must run these commands on your server:
+git clone https://github.com/Aiden280/Investigative-journalism-project-g6
+cd Itigative-journalism-project-g6
+npm install
+npm start
+
+Updating
+cd Investigative-journalism-project-g6
+git pull --force --allow-unrelated-histories
